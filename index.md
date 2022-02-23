@@ -9,8 +9,19 @@ and characters from my videogames!
 ## Table of contents
 
 <!-- Add the contents here -->
-
 <!-- NOTE: Let's order the contents aphabetically, please! -->
+
+### Characters and fiction stuff
 
 - [Diddi](Diddi)
 - [Willpower](Willpower)
+
+<!--
+Other categories that doesn't have articles yet:
+
+### Projects and packages
+
+### People (?)
+
+### Terms and concepts from my projects
+-->
