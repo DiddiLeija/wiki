@@ -16,10 +16,14 @@ and characters from my videogames!
 - [Diddi](Diddi)
 - [Willpower](Willpower)
 
+### Projects and packages
+
+<!-- NOTE: Please specify what kind of project is being defined! -->
+
+- [Diddi and the Bugs (videogame)](Diddi_and_the_Bugs)
+
 <!--
 Other categories that doesn't have articles yet:
-
-### Projects and packages
 
 ### People (?)
 
