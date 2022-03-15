@@ -10,7 +10,7 @@ of games about [Diddi](Diddi).
 | Full name | Diddi and the Bugs |
 | Author | Diego Ramirez |
 | First release date | 25 November 2021 (first **former** release); 03 January 2022 (first **stable** release) |
-| Latest version | 1.2.0 |
+| Latest version | 2.0.0 |
 | Download page | ["Diddi and the bugs" at itch.io](https://diddileija.itch.io/diddi-and-the-bugs) |
 
 ## Argument
@@ -63,4 +63,5 @@ that, the first "stable" release (1.0.0) was published.
 Then, Ramirez started to look for inputs, and followed by new contributors, he polished the game in two other
 releases, 1.1.0 and 1.2.0.
 
-There are plans to cut a 2.0.0 release with major changes. But we should wait for that.
+The 2.0.0 release made several changes, like a messages bar below the screen, improved features, and some new
+"easter eggs". This release officially deprecated the 1.x series, to start a new series.
