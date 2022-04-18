@@ -15,7 +15,7 @@ of games about [Diddi](Diddi).
 
 ## Argument
 
-_Sourced from the project [README](https://github.com/DiddiLeija/diddi-and-the-bugs/blob/main/README.md#introduction)._
+_Sourced from the project's [README](https://github.com/DiddiLeija/diddi-and-the-bugs/blob/main/README.md#introduction)._
 
 > The Earth is under invasion. A fleet of giant bugs, bacteria, and viruses are
 > outside of the planet.
@@ -29,6 +29,15 @@ _Sourced from the project [README](https://github.com/DiddiLeija/diddi-and-the-b
 > starfighter that energizes the serum and shoot it. Then, he named the starfighter **Willpower**.
 > Suddendly, the Willpower goes outside of the planet, to start the fight...
 
+## Gameplay
+
+The game starts with [Diddi](Diddi) riding his [new starfighter, the "Willpower"](Willpower). The goal
+is to destroy 200 bugs (which invaded the Earth's atmosphere). If those bugs are destroyed, the game ends.
+
+As a secondary goal, the users are challenged to get the highest score as possible. To do so, they have to
+destroy some "space trash" that spawns with the bugs. Also, since the 2.x releases, there's a giant bug known
+as "The Monster" (which is not counted with the 200 bugs), that can give an important amount of extra points.
+
 ## Development story
 
 <!-- Note: Special quotes from me (from never-released pages from my diary) are below! Take note! -->
@@ -37,9 +46,9 @@ Initially, the game started as a submission to [GameOff 2021](https://itch.io/ja
 
 > When the jam's theme was exposed ("BUG"), I was a bit confused. I just took my computer, and created
 > a weird draft of an invasion game, but I dropped it fastly. Then, a few days later, I was chatting
-> with a great friend of mine, and told her about my plans to join the GameOff. I showed her the theme,
-> and then replied: "I'm thinking about a doctor who uses a laser to destroy viruses or something like
-> that". Then, I said "Something like a space-themed shooter with bugs?". After that, the idea was born.
+> with a girl that is a great friend of mine, and told her about my plans to join the GameOff. I showed her
+> the theme, and then she replied: "I'm thinking about a doctor who uses a laser to destroy viruses or something
+> like that". Then, I said "Something like a space-themed shooter with bugs?". "Yes", she replied. After that, the idea was born.
 >
 > ~ @DiddiLeija
 
@@ -64,4 +73,4 @@ Then, Ramirez started to look for inputs, and followed by new contributors, he p
 releases, 1.1.0 and 1.2.0.
 
 The 2.0.0 release made several changes, like a messages bar below the screen, improved features, and some new
-"easter eggs". This release officially deprecated the 1.x series, to start a new series.
+"easter eggs". This release officially deprecated the 1.x series, to start a new series of Diddi and The Bugs.
