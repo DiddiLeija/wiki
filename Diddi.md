@@ -18,17 +18,21 @@ Though he doesn't have a big phisical strength, he uses tech and intelligence to
 defeat his enemies. He's also known to be a good pilot using his customized starfighter, called
 the Willpower.
 
-## Story
+### Story
 
-This is the official story of Diddi. Some of these stories have been published in videogames, and others
-are ideas for in-development games.
+This is the official published story of Diddi. Some of these stories have been published in videogames,
+and others are ideas for in-development games.
 
-### Hired by Yoshyyk
+The below info is not all the story shown in _The Yoshyykians_, the comics that originated Diddi. However,
+all the stories shown here are the same than their equivalents in that comic.
 
-Diddi made his first act as a hero when he defeated a hacker in-person. The Yoshyyk Alliance noticed
-this, and decided to hire him to fight crime. He was taken to planet Minecraftalia to be trained.
+#### Hired by Yoshyyk
 
-### Diddi vs. Bugs
+Diddi made his first act as a hero when he defeated a hacker in a hand-to-hand combat, using his iconic suit
+for the first time. The Yoshyyk Alliance noticed this, and decided to hire him to fight crime. He was taken to
+planet Minecraftalia to be trained.
+
+#### Diddi vs. Bugs
 
 Diddi didn't return to Earth while he trained, but then he decided to return when noticed a giant invassion
 of bugs, bacteria and viruses among the planet's atmosphere.
@@ -42,9 +46,9 @@ Diddi used his new starfighter, the Willpower, to destroy them all. After succes
 | First appearance | [Diddi and the bugs](https://diddileija.itch.io/diddi-and-the-bugs) |
 | Number of published games where appeared | 1 |
 
-Diddi was the first character of _The Yoshyykians_ (an unreleased set of comics that modeled the stories used in games). Then,
-he debuted in the world with his first game, named [Diddi and the bugs](https://diddileija.itch.io/diddi-and-the-bugs), that
-introduced the "Diddi vs. Bugs" chapter of his life. Other games that tell other Diddi stories are in-development or planning.
+Diddi was the first character of _The Yoshyykians_ (an unreleased set of comics that modeled the stories used in games) and one of
+the main characters. Then, he debuted in the real world with his first game, named [Diddi and the bugs](https://diddileija.itch.io/diddi-and-the-bugs),
+that introduced the "Diddi vs. Bugs" chapter of his life. Other games that tell other Diddi stories are in-development or planning.
 
 Also, "Diddi" is the base of [Diego Ramirez](https://diddileija.github.io)'s nickname "DiddiLeija". The other part is a spanish
 surname, "Leija".
