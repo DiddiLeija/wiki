@@ -50,6 +50,9 @@ Initially, the game started as a submission to [GameOff 2021](https://itch.io/ja
 > the theme, and then she replied: "I'm thinking about a doctor who uses a laser to destroy viruses or something
 > like that". Then, I said "Something like a space-themed shooter with bugs?". "Yes", she replied. After that, the idea was born.
 >
+> To be honest, the whole _Diddi and the Bugs_ game would not be possible without my friend's fresh idea.
+> It was something spontaneous, and then it became something real.
+>
 > ~ @DiddiLeija
 
 At November 1st, 2021, when the jam started, the design part of the game started. The first idea was to use
@@ -57,10 +60,11 @@ At November 1st, 2021, when the jam started, the design part of the game started
 to [Pyxel](https://github.com/kitao/pyxel), that modeled the retro style of the final game.
 
 At November 25, 2021, the first functional shot of the game was ready. A few days later, the first distribution
-of **Diddi and the bugs** was ready at [itch.io](https://diddileija.itch.io/diddi-and-the-bugs).
+of **Diddi and the bugs** was ready at [itch.io](https://diddileija.itch.io/diddi-and-the-bugs). It didn't have
+any tags or anything, it was just a Python file and a resource file (the game was later packaged and distributed
+for specific environments).
 
-After the jam ended, the game ranked 278th from 526 submissions. Not an extraordinary position, though. After
-that, the first "stable" release (1.0.0) was published.
+After the jam ended, the game ranked 278th from 526 submissions. Not an extraordinary position, though.
 
 > After 2 months of working, coding, rating and fixing, the end of the event has just come.
 > Today, they published the results (see [here](https://itch.io/jam/game-off-2021/results)). I know, my game
@@ -69,8 +73,12 @@ that, the first "stable" release (1.0.0) was published.
 >
 > ~ @DiddiLeija ([see original](https://diddileija.github.io/diary/2022-01-03))
 
-Then, Ramirez started to look for inputs, and followed by new contributors, he polished the game in two other
-releases, 1.1.0 and 1.2.0.
+After that, the first "stable" release (1.0.0) was published. It was only an unmodified version of the game,
+exactly the same than the jam's version.
 
-The 2.0.0 release made several changes, like a messages bar below the screen, improved features, and some new
-"easter eggs". This release officially deprecated the 1.x series, to start a new series of Diddi and The Bugs.
+Then, Ramirez started to look for inputs, and followed by new contributors, he polished the game and removed
+some issues in two other minor releases, 1.1.0 and 1.2.0.
+
+Later, Ramirez started the 2.x major series. The 2.0.0 release made several changes, like a messages bar below
+the screen, improved features, and some new "easter eggs". This release officially deprecated the 1.x series,
+to start a new series of Diddi and The Bugs.
