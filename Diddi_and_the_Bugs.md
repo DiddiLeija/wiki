@@ -10,7 +10,7 @@ of games about [Diddi](Diddi).
 | Full name | Diddi and the Bugs |
 | Author | Diego Ramirez |
 | First release date | 25 November 2021 (first **former** release); 03 January 2022 (first **stable** release) |
-| Latest version | 2.0.0 |
+| Latest stable version | 2.0.0 |
 | Download page | ["Diddi and the bugs" at itch.io](https://diddileija.itch.io/diddi-and-the-bugs) |
 
 ## Argument
@@ -42,11 +42,13 @@ as "The Monster" (which is not counted with the 200 bugs), that can give an impo
 
 <!-- Note: Special quotes from me (from never-released pages from my diary) are below! Take note! -->
 
-Initially, the game started as a submission to [GameOff 2021](https://itch.io/jam/game-off-2021).
+### Early development - Submission to GameOff
+
+Initially, the game started as a project for [GameOff 2021](https://itch.io/jam/game-off-2021).
 
 > When the jam's theme was exposed ("BUG"), I was a bit confused. I just took my computer, and created
-> a weird draft of an invasion game, but I dropped it fastly. Then, a few days later, I was chatting
-> with a girl that is a great friend of mine, and told her about my plans to join the GameOff. I showed her
+> a weird draft, but I dropped it fastly. Then, a few days later, I was chatting
+> with a girl that's a great friend of mine, and told her about my plans to join the GameOff. I showed her
 > the theme, and then she replied: "I'm thinking about a doctor who uses a laser to destroy viruses or something
 > like that". Then, I said "Something like a space-themed shooter with bugs?". "Yes", she replied. After that, the idea was born.
 >
@@ -71,7 +73,9 @@ After the jam ended, the game ranked 278th from 526 submissions. Not an extraord
 > is not on the first pages (he he)… It ranked 278th. Only 7 people rated. But I don’t feel bad – there were
 > 530 entries on the jam :p
 >
-> ~ @DiddiLeija ([see original](https://diddileija.github.io/diary/2022-01-03))
+> ~ @DiddiLeija ([see original post](https://diddileija.github.io/diary/2022-01-03))
+
+### 1.x series
 
 After that, the first "stable" release (1.0.0) was published. It was only an unmodified version of the game,
 exactly the same than the jam's version.
@@ -79,6 +83,18 @@ exactly the same than the jam's version.
 Then, Ramirez started to look for inputs, and followed by new contributors, he polished the game and removed
 some issues in two other minor releases, 1.1.0 and 1.2.0.
 
-Later, Ramirez started the 2.x major series. The 2.0.0 release made several changes, like a messages bar below
-the screen, improved features, and some new "easter eggs". This release officially deprecated the 1.x series,
-to start a new series of Diddi and The Bugs.
+### 2.x series
+
+Later, Ramirez started the 2.x major series. The 2.0.0 release made several changes, and officially
+deprecated the 1.x series, to start a new series of Diddi and The Bugs.
+
+One of the main changes was the addition of a "messages bar", a small space below the screen to show notifications. It became
+the first bridge between the user and [Diddi](Diddi) (before this release, he was only mentioned as the spaceship's pilot). Now
+the users could receive small messages and alerts from the pilot, but also from "the system" (to notificate higher changes).
+
+This update also included improved features, and also some new "easter eggs", like a hard-to-find creature and secret messages.
+
+### Future
+
+There's an unconfirmed plan to keep working on Diddi and The Bugs. A new series (probably 3.x) might refactor the interface,
+include some new art, and present some new features and prizes.
