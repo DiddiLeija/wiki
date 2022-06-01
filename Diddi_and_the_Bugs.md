@@ -91,8 +91,9 @@ deprecated the 1.x series, to start a new series of Diddi and The Bugs.
 One of the main changes was the addition of a "messages bar", a small space below the screen to show notifications. It became
 the first bridge between the user and [Diddi](Diddi) (before this release, he was only mentioned as the spaceship's pilot). Now
 the users could receive small messages and alerts from the pilot, but also from "the system" (to notificate higher changes).
-
 This update also included improved features, and also some new "easter eggs", like a hard-to-find creature and secret messages.
+
+Another 2.x release, named 2.0.1, updated dependencies and improved the community stuff.
 
 ### Future
 
