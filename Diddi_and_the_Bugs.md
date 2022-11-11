@@ -10,7 +10,7 @@ of games about [Diddi](Diddi).
 | Full name | Diddi and the Bugs |
 | Author | Diego Ramirez |
 | First release date | 25 November 2021 (first **former** release); 03 January 2022 (first **stable** release) |
-| Latest stable version | 2.0.0 |
+| Latest stable version | 3.0.0 |
 | Download page | ["Diddi and the bugs" at itch.io](https://diddileija.itch.io/diddi-and-the-bugs) |
 
 ## Argument
@@ -95,7 +95,17 @@ This update also included improved features, and also some new "easter eggs", li
 
 Another 2.x release, named 2.0.1, updated dependencies and improved the community stuff.
 
+### 3.x series
+
+A new series (3.x) added a brand-new look to the game, with some appearance features.
+
+The 3.0.0 release added stars to the game, enforcing the space theme. They have random speed and position, so they provide a more
+natural aspect. This idea was proposed and developed at Ramirez's Discord server, before its introduction to the codebase.
+
+Another major feature is the main menu, that welcomes the users instead of starting the game directly. The available options are
+1\) starting the game and 2) a credits sequence. This credits sequence only provides a link to a list of credits, available at GitHub.
+This feat was also proposed on Discord.
+
 ### Future
 
-There's an unconfirmed plan to keep working on Diddi and The Bugs. A new series (probably 3.x) might refactor the interface,
-include some new art, and present some new features and prizes.
+The current plan is to keep maintaining the 3.x series. There's a plan to support in-browser playing.
