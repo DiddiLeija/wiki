@@ -1,5 +1,7 @@
 # Willpower
 
+_Last updated: February 22th, 2022._
+
 **The Willpower** is a fiction startfighter that belongs to [**Diddi**](Diddi). He created that fighter
 to deal with a devastating fleet of bugs that attacked the warrior's homeworld.
 
