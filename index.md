@@ -4,8 +4,6 @@ This is a special section from my website, saved in a separate source, that
 stores some useful data, concepts, and other stuff. For example, concepts
 and characters from my videogames!
 
-**If you wanna go back to my main website, go [here](..).**
-
 ## Table of contents
 
 <!-- Add the contents here -->
@@ -32,6 +30,10 @@ Other categories that doesn't have articles yet:
 
 ## Relevant resources
 
-### _Important note!_ "Last updated" notices
+### Important note! "Last updated" notices
 
 Each wiki article contains a "Last updated" note. Take that in count.
+
+### Head back to my main site
+
+**If you wanna go back to my main website, you can use this [link](..).**
