@@ -29,3 +29,9 @@ Other categories that doesn't have articles yet:
 
 ### Terms and concepts from my projects
 -->
+
+## Relevant resources
+
+### _Important note!_ "Last updated" notices
+
+Each wiki article contains a "Last updated" note. Take that in count.
