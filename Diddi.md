@@ -1,5 +1,7 @@
 # Diddi
 
+_Last updated: April 27th, 2022._
+
 **Diddi** is the name of the main character from the games with his name, grouped in the
 [Diddi Games Collection](https://itch.io/c/1927005/diddi-games-collection).
 
