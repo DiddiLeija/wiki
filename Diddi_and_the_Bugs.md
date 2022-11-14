@@ -1,5 +1,7 @@
 # Diddi and the Bugs (videogame)
 
+_Last updated: November 11th, 2022._
+
 **Diddi and the Bugs** is the name of the first videogame from the _Diddi Games Collection_, a collection
 of games about [Diddi](Diddi).
 
