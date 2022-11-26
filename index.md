@@ -1,7 +1,7 @@
 # Welcome to my wiki!
 
 This is a special section from my website, saved in a separate source, that
-stores some useful data, concepts, and other stuff. For example, concepts
+store some useful data, concepts, and other stuff. For example, concepts
 and characters from my videogames!
 
 ## Table of contents
@@ -11,6 +11,7 @@ and characters from my videogames!
 
 ### Characters and fiction stuff
 
+- [Confidence](Confidence)
 - [Diddi](Diddi)
 - [Willpower](Willpower)
 
@@ -18,6 +19,7 @@ and characters from my videogames!
 
 <!-- NOTE: Please specify what kind of project is being defined! -->
 
+- [Abandon the ship! (videogame)](Abandon_the_Ship)
 - [Diddi and the Bugs (videogame)](Diddi_and_the_Bugs)
 
 <!--

@@ -1,6 +1,6 @@
 # Diddi
 
-_Last updated: April 27th, 2022._
+_Last updated: November 26th, 2022._
 
 **Diddi** is the name of the main character from the games with his name, grouped in the
 [Diddi Games Collection](https://itch.io/c/1927005/diddi-games-collection).
@@ -41,16 +41,22 @@ of bugs, bacteria and viruses among the planet's atmosphere.
 
 Diddi used his new starfighter, the Willpower, to destroy them all. After success, he returned to Minecraftalia.
 
+#### "Abandon the ship!"
+
+The [Confidence](Confidence) space cruiser is mentioned and sometimes shown in _The Yoshyykians_. However,
+its destruction is only suggested by the ["Abandon the ship!"](Abandon_the_Ship) game. According to this game,
+Diddi was inside the doomed ship, but managed to escape.
+
 ## In the media
 
 | Category | Information |
 |---|---|
 | First appearance | [Diddi and the bugs](https://diddileija.itch.io/diddi-and-the-bugs) |
-| Number of published games where appeared | 1 |
+| Number of published games where appeared | 2 |
 
 Diddi was the first character of _The Yoshyykians_ (an unreleased set of comics that modeled the stories used in games) and one of
 the main characters. Then, he debuted in the real world with his first game, named [Diddi and the bugs](https://diddileija.itch.io/diddi-and-the-bugs),
-that introduced the "Diddi vs. Bugs" chapter of his life. Other games that tell other Diddi stories are in-development or planning.
+that introduced the "Diddi vs. Bugs" chapter of his life. Other games tell other Diddi stories.
 
 Also, "Diddi" is the base of [Diego Ramirez](https://diddileija.github.io)'s nickname "DiddiLeija". The other part is a spanish
 surname, "Leija".
