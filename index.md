@@ -11,6 +11,7 @@ and characters from my videogames!
 
 ### Characters and fiction stuff
 
+- [Confidence](Confidence)
 - [Diddi](Diddi)
 - [Willpower](Willpower)
 
@@ -18,6 +19,7 @@ and characters from my videogames!
 
 <!-- NOTE: Please specify what kind of project is being defined! -->
 
+- [Abandon the ship! (videogame)](Abandon_the_Ship)
 - [Diddi and the Bugs (videogame)](Diddi_and_the_Bugs)
 
 <!--
