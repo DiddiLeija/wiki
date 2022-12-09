@@ -42,11 +42,26 @@ as "The Monster" (which is not counted with the 200 bugs), that can give an impo
 
 ## Development story
 
-<!-- Note: Special quotes from me (from never-released pages from my diary) are below! Take note! -->
-
 ### Early development - Submission to GameOff
 
 Initially, the game started as a project for [GameOff 2021](https://itch.io/jam/game-off-2021).
+
+> That's a nice story to tell.
+>
+> I have a friend \[...\].
+> I was chatting with \[her\], while I was stuck with the GameOff theme ("bug").
+> 
+> And she came with a fresh idea from a non-exhausted mind: a doctor with a starship that kills "bugs".
+> At first, I thought it was too bare, but then noticed it was a great idea.
+>
+> Also, that idea matched with a story I planned in the past (see the 3rth answer).
+> So everything connected, and then I started to develop my game!
+> 
+> ~ @DiddiLeija (quoted from a post in [DiddiLeija's Discord Server](https://discord.gg/DfrHxT9ENy))
+
+<!--
+
+Legacy quote (let's keep it for its sentimental value)...
 
 > When the jam's theme was exposed ("BUG"), I was a bit confused. I just took my computer, and created
 > a weird draft, but I dropped it fastly. Then, a few days later, I was chatting
@@ -58,6 +73,8 @@ Initially, the game started as a project for [GameOff 2021](https://itch.io/jam/
 > It was something spontaneous, and then it became something real.
 >
 > ~ @DiddiLeija
+
+-->
 
 At November 1st, 2021, when the jam started, the design part of the game started. The first idea was to use
 [Pygame](https://pygame.org), and actually the game started with Pygame stuff. But then, the game switched
