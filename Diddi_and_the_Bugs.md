@@ -1,6 +1,6 @@
 # Diddi and the Bugs (videogame)
 
-_Last updated: November 11th, 2022._
+_Last updated: December 9th, 2022._
 
 **Diddi and the Bugs** is the name of the first videogame from the _Diddi Games Collection_, a collection
 of games about [Diddi](Diddi).
@@ -12,7 +12,7 @@ of games about [Diddi](Diddi).
 | Full name | Diddi and the Bugs |
 | Author | Diego Ramirez |
 | First release date | 25 November 2021 (first **former** release); 03 January 2022 (first **stable** release) |
-| Latest stable version | 3.0.0 |
+| Latest stable version | 3.0.1 |
 | Download page | ["Diddi and the bugs" at itch.io](https://diddileija.itch.io/diddi-and-the-bugs) |
 
 ## Argument
@@ -103,11 +103,14 @@ A new series (3.x) added a brand-new look to the game, with some appearance feat
 
 The 3.0.0 release added stars to the game, enforcing the space theme. They have random speed and position, so they provide a more
 natural aspect. This idea was proposed and developed at Ramirez's Discord server, before its introduction to the codebase.
-
 Another major feature is the main menu, that welcomes the users instead of starting the game directly. The available options are
 1\) starting the game and 2) a credits sequence. This credits sequence only provides a link to a list of credits, available at GitHub.
 This feat was also proposed on Discord.
 
+A few months later, bugfix version 3.0.1 made a slight change that finally enabled web support, using Pyxel's WASM support. The main
+fix that achieved this goal was found accidentally, during the development of the [Abandon the ship!](Abandon_the_Ship) game, and
+was implemented a few weeks after the end of that development.
+
 ### Future
 
-The current plan is to keep maintaining the 3.x series. There's a plan to support in-browser playing.
+The current plan is to keep maintaining the 3.x series.
