@@ -15,7 +15,7 @@ of games about [Diddi](Diddi).
 | Latest stable version | 3.0.1 |
 | Download page | ["Diddi and the bugs" at itch.io](https://diddileija.itch.io/diddi-and-the-bugs) |
 
-## Argument
+## Plot
 
 _Sourced from the project's [README](https://github.com/DiddiLeija/diddi-and-the-bugs/blob/main/README.md#introduction)._
 
