@@ -1,6 +1,6 @@
 # Abandon the ship! (videogame)
 
-_Last updated: November 26th, 2022._
+_Last updated: December 10th, 2022._
 
 **Abandon the ship!** is the second game of the _Diddi Games Collection_, featuring [Diddi](Diddi).
 
@@ -10,7 +10,7 @@ _Last updated: November 26th, 2022._
 |---|---|
 | Full name | Abandon the ship! |
 | Author | Diego Ramirez |
-| First release date | 25 November 2022 (first **former** release) |
+| First release date | November 25th, 2022 (first **former** release); November 29th, 2022 (first **stable** release)|
 | Latest stable version | - |
 | Download page | ["Abandon the ship!" at itch.io](https://diddileija.itch.io/abandon-the-ship) |
 
