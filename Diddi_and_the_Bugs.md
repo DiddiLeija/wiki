@@ -1,6 +1,6 @@
 # Diddi and the Bugs (videogame)
 
-_Last updated: December 9th, 2022._
+_Last updated: January 19th, 2023._
 
 **Diddi and the Bugs** is the name of the first videogame from the _Diddi Games Collection_, a collection
 of games about [Diddi](Diddi).
@@ -12,7 +12,7 @@ of games about [Diddi](Diddi).
 | Full name | Diddi and the Bugs |
 | Author | Diego Ramirez |
 | First release date | 25 November 2021 (first **former** release); 03 January 2022 (first **stable** release) |
-| Latest stable version | 3.0.1 |
+| Latest stable version | 3.1.0 |
 | Download page | ["Diddi and the bugs" at itch.io](https://diddileija.itch.io/diddi-and-the-bugs) |
 
 ## Plot
@@ -127,6 +127,9 @@ This feat was also proposed on Discord.
 A few months later, bugfix version 3.0.1 made a slight change that finally enabled web support, using Pyxel's WASM support. The main
 fix that achieved this goal was found accidentally, during the development of the [Abandon the ship!](Abandon_the_Ship) game, and
 was implemented a few weeks after the end of that development.
+
+In minor release 3.1.0, Ramirez replaced the experimental, nightly WASM online version with a donwloadable, version-controlled HTML
+alongside the other dists, as a totally-new distribution.
 
 ### Future
 
