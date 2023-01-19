@@ -53,7 +53,7 @@ version, which is the "jam version" of the game itself.
 
 The game rank was later published by Ramirez, in his Discord server, as follows:
 
-> Heads up @everyone! the results are here... and we rated **202th from 562 submissions!**
+> Heads up `@everyone`! the results are here... and we rated **202th from 562 submissions!**
 >
 > ~ @DiddiLeija (quoted from a post in [DiddiLeija's Discord Server](https://discord.gg/DfrHxT9ENy)\)
 
