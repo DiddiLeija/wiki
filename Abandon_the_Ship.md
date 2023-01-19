@@ -1,6 +1,6 @@
 # Abandon the ship! (videogame)
 
-_Last updated: December 10th, 2022._
+_Last updated: January 18th, 2023._
 
 **Abandon the ship!** is the second game of the _Diddi Games Collection_, featuring [Diddi](Diddi).
 
@@ -11,7 +11,7 @@ _Last updated: December 10th, 2022._
 | Full name | Abandon the ship! |
 | Author | Diego Ramirez |
 | First release date | November 25th, 2022 (first **former** release); November 29th, 2022 (first **stable** release)|
-| Latest stable version | - |
+| Latest stable version | 1.0.0 |
 | Download page | ["Abandon the ship!" at itch.io](https://diddileija.itch.io/abandon-the-ship) |
 
 ## Plot
@@ -48,8 +48,17 @@ Diego Ramirez started to develop a game for the [GameOff 2022 jam](https://itch.
 > ~ @DiddiLeija
 
 Using a similar strategy from his previous game, [Diddi and the Bugs](Diddi_and_the_Bugs), Ramirez developed
-a simple platformer-like game. Then he released it to `itch.io` and the jam.
+a simple platformer-like game. Then he released it to `itch.io` and the jam. And then, Ramirez launched a 1.0.0
+version, which is the "jam version" of the game itself.
+
+The game rank was later published by Ramirez, in his Discord server, as follows:
+
+> Heads up @everyone! the results are here... and we rated **202th from 562 submissions!**
+>
+> ~ @DiddiLeija (quoted from a post in [DiddiLeija's Discord Server](https://discord.gg/DfrHxT9ENy)\)
+
+After that, Ramirez pinned [some goals for improving on a further release](https://github.com/DiddiLeija/abandon-the-ship/issues/6).
 
 ### Future
 
-Ramirez is interested on maintaining this game, but it all depends on the jam results.
+Ramirez is interested on maintaining this game, based in the "jam version"'s feedback.
