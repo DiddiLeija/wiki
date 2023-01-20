@@ -1,5 +1,7 @@
 # Welcome to my wiki!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3AL6D6)
+
 This is a special section from my website, saved in a separate source, that
 store some useful data, concepts, and other stuff. For example, concepts
 and characters from my videogames!
